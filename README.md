@@ -1,1 +1,3 @@
-# INVOICE-WORK-
+# INVOICE-WORK-WITH-PYQT5
+ In this project I make a table and get the all values of the entery box of the another gui and paste in the table ...
+ # its simple application which helps to store the record
